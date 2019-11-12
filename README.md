@@ -1,14 +1,16 @@
 
 # TechJobs MVC Assignment
 
- ## TODO / Create a Results action method to process
+ ## TODO / Display Search Results / List All Jobs
 
- - [x] Add a Results action method to SearchController.
- - [x] The method should take in two parameters, type the
-       search and the search term.
- - [x] Name them appropriately based on form field names
- - [x] Pass ListController.columnChoices to Search View
- - [x] Pass JobData class into Search view by using a loop
+ - [x] Create a loop to display each Job passed in from controller
+ - [x] Put each Job in its own table, with one job field per row
+ - [x] Add the CSS class 'job-listing' to each of the tables
+ - [x] Copy nested foreach loop template to display all Jobs
+
+
+
+ 
  
 
 
